@@ -11,13 +11,32 @@ h1 {
   font-size: 3rem;
 }
 
+img {
+  display: block;
+  width: 30%;
+  margin: auto;
+}
+
+.description {
+  margin: 1% auto 2% auto;
+  width: 55%;
+}
+
+.description h2,
+h3 {
+  font-size: 2.25rem;
+  text-align: center;
+  margin: 1% auto 2% auto;
+}
+
 ul,
 ol {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 2em;
+  width: 75%;
+  margin: 1% auto 2% auto;
   font-size: 1.5rem;
   gap: 15px;
 }
