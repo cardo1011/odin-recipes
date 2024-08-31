@@ -9,17 +9,22 @@ h1 {
   text-align: center;
   margin-top: 5%;
   font-size: 3rem;
+  color: rgba(38, 149, 38, 0.837);
 }
 
 img {
   display: block;
   width: 30%;
   margin: auto;
+  border-radius: 50px;
 }
 
 .description {
   margin: 1% auto 2% auto;
   width: 55%;
+  background-color: orangered;
+  padding: 1.2%;
+  border-radius: 50px;
 }
 
 .description h2,
